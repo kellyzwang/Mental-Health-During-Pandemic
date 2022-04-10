@@ -12,7 +12,7 @@ library("DT")
 # Import source
 #----------------------------------------------------------------------------#
 
-source("tab_panels/tab_introduction_panel.R")
+source("tab_panels/tab_introduction_panel.R", encoding="utf-8")
 
 
 #----------------------------------------------------------------------------#
@@ -64,8 +64,24 @@ first_chart_main <- mainPanel(
   br(),
   br(),
   br(),
-  p("HELLLLO")
-  
+  p("We can notice from the Line chart that around May mental health and 
+  insomnia are searched pretty frequently, which might be related to the 
+  encouragement of vaccination by the U.S. government. The increase of vaccination 
+  rate might lead to an increasing concern of mental health related to possible 
+  side-effects of the vaccine. However, the anxiety got smoother when time was 
+  reaching July, which might be attributed to the confidence towards vaccine 
+  protection and the revival of social life. The rising of interest on these 
+  terms around September and October might be caused by the switch of working 
+  and learning environment from online to in-person. Besides COVID-19, there are 
+  many possible confounding factors like seasonal affective disorders and change 
+  to winter time."),
+  br(),
+  p("From the searching average comparison graph, we can see that the two most 
+  concerning terms are anxiety and depression, which can be used by search engines 
+  to improve recommendation algorithms to help people relax. Recommended topics to 
+  those users might be calm music, relaxing or funny videos, and so on. In addition, 
+  financial investments in those fields can be potentially profitable, and activities 
+  that help people cope with anxiety and mood issues are expected to be popular.")
   
 )
 
@@ -111,14 +127,13 @@ second_chart_main <- mainPanel(
   br(),
   br(),
   br(),
-  p("This is an interactive data visualization that visualizes people’s responses on
-  whether they are provided with mental health resources from their employers. Our goal
-  is to inform everyone, especially employers, that there’s still a lot of people who
-  don’t have access to mental health resources in their workplace. Through our data 
-  visualization results, we found out that most of the people who have been diagnosed 
-  with eating disorder, stress response syndromes, or substance use disorder don’t have 
-  access to resources. Therefore, employers should pay more attention to providing help
-  and access to resources for these mental disorders."),
+  p("This is an interactive data visualization that visualizes people’s responses on whether they 
+  are provided with mental health resources from their employers. Our goal is to inform everyone, 
+  especially employers, that there’s still a lot of people who don’t have access to mental health 
+  resources in their workplace. Through our data visualization results, we found out that most of 
+  the people who have been diagnosed with eating disorder, stress response syndromes, or substance
+  use disorder don’t have access to resources. Therefore, employers should pay more attention to providing 
+  help and access to resources for these mental disorders. "),
   br(),
   br()
 )
@@ -157,7 +172,7 @@ reference_panel <- tabPanel(
 #----------------------------------------------------------------------------#
 ui <- navbarPage(
   "Mental Health during Pandemic",
-  theme = shinytheme("cyborg"),
+  theme = shinytheme("lumen"),
   page_one,
   first_chart_panel,
   second_chart_panel,

@@ -12,27 +12,27 @@
 #list2{
   font-family: 'Lato', sans-serif;
   font-weight: 400;
-  color: white;
+  color: black;
   font-style: italic;
 }
 
 
 body {
-  background-color: #4b2e83;
-  color: white; 
+  background-color: #CFD8D7;
+  color: black; 
 }
 
 h1{
   font-family: 'Lato', sans-serif;
   font-weight: 900;
-  color: white;
+  color: black;
 }
   
   
 h3 {
   font-family: 'Lato', sans-serif;
   font-weight: 700;
-  color: #e8e3d3;
+  color: black;
 }
 
 p{
