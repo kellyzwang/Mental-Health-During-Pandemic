@@ -9,7 +9,7 @@ library("gfonts")
 
 tab_introduction_panel <- tabPanel(
   "Introduction",
-  h1("Enhanced Mindfulness: Physical & Mental Health"),
+  h1("Enhanced Mindfulness: Mental Health"),
   h3("Introduction"),
   p("The pandemic has increased the prevalence of mental illness. 
     Social quarantining has caused a countless number of people 
