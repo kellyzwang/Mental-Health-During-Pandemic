@@ -1,0 +1,132 @@
+"gender","country","offer_resources","discuss_mental_health","anxiety","mood","psychotic","eating","ADHD","personality","obsessive","stressresponse","dissociative","substance","addictive"
+"Female","United States of America","I don't know","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"male","Brazil","Yes","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","Brazil","I don't know","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"male","Italy",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"female","Canada","Yes","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Female","United States of America","No","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"female","United States of America","Yes","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"female","Germany","No","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Female","India","No","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"f","Belarus",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","Germany","Yes","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","India","No","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"F","Germany","No","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"female","Macedonia","No","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","Macedonia","No","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Female","Macedonia","I don't know","I don't know",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"f","Slovenia","Yes","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","Albania","No","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"male","Macedonia","I don't know","I don't know",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"female","Slovenia","Yes","I don't know",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Female","Slovenia","I don't know","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","Slovenia","No","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Female","Slovenia","No","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","United States of America","Yes","No",NA,"Mood Disorder (Depression, Bipolar Disorder, etc)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","India","No","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"woman","Austria","Yes","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Female","Macedonia","No","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Female","India","Yes","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Female","United States of America","Yes","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"afab non-binary","United States of America","No","No","Anxiety Disorder (Generalized, Social, Phobia, etc)","Mood Disorder (Depression, Bipolar Disorder, etc)",NA,"Eating Disorder (Anorexia, Bulimia, etc)","Attention Deficit Hyperactivity Disorder",NA,NA,NA,NA,NA,NA
+"Male","India",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Female","United States of America","No","No","Anxiety Disorder (Generalized, Social, Phobia, etc)","Mood Disorder (Depression, Bipolar Disorder, etc)",NA,NA,"Attention Deficit Hyperactivity Disorder",NA,NA,NA,NA,NA,NA
+"Female","United States of America","Yes","Yes",NA,NA,NA,NA,"Attention Deficit Hyperactivity Disorder",NA,NA,NA,NA,NA,NA
+"Male","United States of America","I don't know","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"male","India",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"Addictive Disorder"
+"male","Kenya","Yes","I don't know",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"male","United States of America","Yes","Yes","Anxiety Disorder (Generalized, Social, Phobia, etc)","Mood Disorder (Depression, Bipolar Disorder, etc)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"MALE","Australia","No","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,"United States of America","Yes","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Female","United States of America","Yes","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Masculine","Brazil","No","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"male","Brazil","No","I don't know",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","Brazil","I don't know","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Female","United States of America","No","No","Anxiety Disorder (Generalized, Social, Phobia, etc)","Mood Disorder (Depression, Bipolar Disorder, etc)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Female (cis)","United States of America","Yes","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"b","Sao Tome and Principe","I don't know","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Female","India",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"female","Brazil","I don't know","Yes","Anxiety Disorder (Generalized, Social, Phobia, etc)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","Brazil","Yes","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","India","Yes","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Female","United States of America","Yes","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","United States of America","No","Yes",NA,NA,NA,NA,NA,NA,NA,"Stress Response Syndromes",NA,NA,NA
+"female","United States of America","Yes","Yes","Anxiety Disorder (Generalized, Social, Phobia, etc)","Mood Disorder (Depression, Bipolar Disorder, etc)",NA,NA,"Attention Deficit Hyperactivity Disorder",NA,NA,NA,NA,NA,NA
+"Male","United States of America","I don't know","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"female","Vietnam","No","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","United States of America","Yes","Yes",NA,NA,"Psychotic Disorder (Schizophrenia, Schizoaffective, etc)",NA,NA,NA,NA,NA,NA,NA,NA
+"female","India","No","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"m","India","No","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"male/he/him","United States of America","No","No","Anxiety Disorder (Generalized, Social, Phobia, etc)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","India","No","I don't know",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"female","United States of America","Yes","Yes","Anxiety Disorder (Generalized, Social, Phobia, etc)","Mood Disorder (Depression, Bipolar Disorder, etc)",NA,"Eating Disorder (Anorexia, Bulimia, etc)","Attention Deficit Hyperactivity Disorder",NA,NA,NA,NA,"Substance Use Disorder",NA
+"homem cis","Brazil","No","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"male","Germany","Yes","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Female","United States of America","No","No",NA,"Mood Disorder (Depression, Bipolar Disorder, etc)",NA,"Eating Disorder (Anorexia, Bulimia, etc)",NA,NA,NA,"Stress Response Syndromes",NA,NA,NA
+"Male","Indonesia","Yes","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"male","India",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"woman","Switzerland","Yes","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"male","United States of America","Yes","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","United States of America","Yes","No","Anxiety Disorder (Generalized, Social, Phobia, etc)","Mood Disorder (Depression, Bipolar Disorder, etc)",NA,NA,NA,NA,"Obsessive-Compulsive Disorder",NA,NA,NA,NA
+"m","Indonesia",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"male","Finland","No","No","Anxiety Disorder (Generalized, Social, Phobia, etc)","Mood Disorder (Depression, Bipolar Disorder, etc)",NA,"Eating Disorder (Anorexia, Bulimia, etc)","Attention Deficit Hyperactivity Disorder",NA,NA,NA,NA,NA,NA
+"male","United States of America","No","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"female","India","Yes","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","United States of America","I don't know","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"woman","Turkey",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Female","Poland",NA,NA,"Anxiety Disorder (Generalized, Social, Phobia, etc)","Mood Disorder (Depression, Bipolar Disorder, etc)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Female","United Kingdom","Yes","Yes","Anxiety Disorder (Generalized, Social, Phobia, etc)","Mood Disorder (Depression, Bipolar Disorder, etc)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","United States of America","Yes","Yes",NA,"Mood Disorder (Depression, Bipolar Disorder, etc)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"FEMALE","Nigeria","No","I don't know",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Female","United States of America","I don't know","Yes","Anxiety Disorder (Generalized, Social, Phobia, etc)","Mood Disorder (Depression, Bipolar Disorder, etc)",NA,"Eating Disorder (Anorexia, Bulimia, etc)",NA,NA,"Obsessive-Compulsive Disorder",NA,NA,NA,NA
+"female","Bulgaria","No","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","India",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"male","Estonia","Yes","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"M","India","Yes","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"cis-het male","United States of America","Yes","Yes","Anxiety Disorder (Generalized, Social, Phobia, etc)","Mood Disorder (Depression, Bipolar Disorder, etc)",NA,NA,"Attention Deficit Hyperactivity Disorder",NA,NA,NA,NA,NA,NA
+"cis male","Colombia","No","No","Anxiety Disorder (Generalized, Social, Phobia, etc)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Female","United States of America","No","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"male","United States of America",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","Netherlands","I don't know","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","Israel","No","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"male","Israel","No","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Female","United States of America",NA,NA,"Anxiety Disorder (Generalized, Social, Phobia, etc)","Mood Disorder (Depression, Bipolar Disorder, etc)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"male","Canada","No","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","Bangladesh","No","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"m","India","No","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","United States of America","Yes","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Female","India","I don't know","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","United States of America","No","No",NA,"Mood Disorder (Depression, Bipolar Disorder, etc)",NA,NA,"Attention Deficit Hyperactivity Disorder",NA,NA,NA,NA,NA,NA
+"Female","United States of America","No","No",NA,"Mood Disorder (Depression, Bipolar Disorder, etc)",NA,NA,NA,NA,NA,NA,NA,"Substance Use Disorder",NA
+"Female","United Kingdom","Yes","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"M","United States of America","I don't know","Yes",NA,"Mood Disorder (Depression, Bipolar Disorder, etc)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Female","India","No","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Female","United States of America","I don't know","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"woman","United States of America","Yes","Yes","Anxiety Disorder (Generalized, Social, Phobia, etc)","Mood Disorder (Depression, Bipolar Disorder, etc)",NA,NA,"Attention Deficit Hyperactivity Disorder",NA,NA,NA,NA,NA,NA
+"Female","United States of America","Yes","Yes","Anxiety Disorder (Generalized, Social, Phobia, etc)","Mood Disorder (Depression, Bipolar Disorder, etc)",NA,NA,"Attention Deficit Hyperactivity Disorder",NA,NA,"Stress Response Syndromes",NA,NA,"Addictive Disorder"
+"female","United States of America","I don't know","Yes",NA,"Mood Disorder (Depression, Bipolar Disorder, etc)",NA,NA,"Attention Deficit Hyperactivity Disorder",NA,NA,NA,NA,NA,NA
+"Non-binary","Australia","No","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","United States of America","Yes","I don't know","Anxiety Disorder (Generalized, Social, Phobia, etc)","Mood Disorder (Depression, Bipolar Disorder, etc)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Female","United States of America","Yes","Yes","Anxiety Disorder (Generalized, Social, Phobia, etc)","Mood Disorder (Depression, Bipolar Disorder, etc)",NA,NA,NA,NA,"Obsessive-Compulsive Disorder",NA,NA,NA,NA
+"Non-binary/Agender","United States of America","Yes","Yes","Anxiety Disorder (Generalized, Social, Phobia, etc)",NA,NA,NA,NA,NA,"Obsessive-Compulsive Disorder",NA,NA,NA,"Addictive Disorder"
+"Male","Greece","No","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"F","United States of America","Yes","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"female","China","No","I don't know",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","United States of America","No","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","India","Yes","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"female","Germany","I don't know","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","United States of America","No","No","Anxiety Disorder (Generalized, Social, Phobia, etc)","Mood Disorder (Depression, Bipolar Disorder, etc)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Female","United States of America","Yes","Yes","Anxiety Disorder (Generalized, Social, Phobia, etc)","Mood Disorder (Depression, Bipolar Disorder, etc)",NA,"Eating Disorder (Anorexia, Bulimia, etc)",NA,NA,NA,NA,NA,NA,NA
+"F","India","Yes","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"male","Italy","No","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","Italy","No","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","South Africa",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","United States of America","Yes","Yes","Anxiety Disorder (Generalized, Social, Phobia, etc)",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","Netherlands",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","United States of America","Yes","Yes",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","Germany",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","Germany","No","No",NA,"Mood Disorder (Depression, Bipolar Disorder, etc)",NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","Portugal","No","I don't know",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,"Pakistan",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Male","India",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"male","Slovenia","No","No",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
