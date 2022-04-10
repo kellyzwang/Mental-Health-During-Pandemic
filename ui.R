@@ -127,13 +127,7 @@ second_chart_main <- mainPanel(
   br(),
   br(),
   br(),
-  p("This is an interactive data visualization that visualizes people’s responses on whether they 
-  are provided with mental health resources from their employers. Our goal is to inform everyone, 
-  especially employers, that there’s still a lot of people who don’t have access to mental health 
-  resources in their workplace. Through our data visualization results, we found out that most of 
-  the people who have been diagnosed with eating disorder, stress response syndromes, or substance
-  use disorder don’t have access to resources. Therefore, employers should pay more attention to providing 
-  help and access to resources for these mental disorders. "),
+  p("This is an interactive data visualization that visualizes people’s responses on whether they are provided with mental health resources from their employers. Our goal is to inform everyone, especially employers, that there’s still a lot of people who don’t have access to mental health resources in their workplace. Through our data visualization results, we found out that most of the people who have been diagnosed with eating disorder, stress response syndromes, or substance use disorder don’t have access to resources. Therefore, employers should pay more attention to providing help and access to resources for these mental disorders."),
   br(),
   br()
 )
@@ -156,11 +150,13 @@ reference_panel <- tabPanel(
   h3("Reference"),
   br(),
   tags$ol(id = "list2",
-          tags$a(href="https://www.kaggle.com/datasets/osmihelp/osmh-2021-mental-health-in-tech-survey-results?select=OSMI+2021+Mental+Health+in+Tech+Survey+Results+.csv", 
-                 "OSMH Mental Health In Tech Survey 2021"),
+          tags$li("OSMH Mental Health In Tech Survey 2021",
+                  a(href="https://www.kaggle.com/datasets/osmihelp/osmh-2021-mental-health-in-tech-survey-results?select=OSMI+2021+Mental+Health+in+Tech+Survey+Results+.csv",
+                    "https://www.kaggle.com/datasets/osmihelp/osmh-2021-mental-health-in-tech-survey-results?select=OSMI+2021+Mental+Health+in+Tech+Survey+Results+.csv") ),
           br(),
-          tags$a(href="https://www.sciencedirect.com/science/article/pii/S2215036620303072", 
-                 "How mental health care should change as a consequence of the COVID-19 pandemic"),
+          tags$li("How mental health care should change as a consequence of the COVID-19 pandemic",
+                  a(href="https://www.sciencedirect.com/science/article/pii/S2215036620303072",
+                    "https://www.sciencedirect.com/science/article/pii/S2215036620303072")),
           br()
           
   ))

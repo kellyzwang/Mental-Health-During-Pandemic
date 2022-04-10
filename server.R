@@ -7,6 +7,11 @@ library("dplyr")
 library(stringr)
 library("reshape2")
 
+#Sys.getlocale()
+
+# Sys.setlocale("LC_MESSAGES", 'en_GB.UTF-8')
+# Sys.setenv(LANG = "en_US.UTF-8")
+
 tech_data <- read.csv("data/cleaned_mentalHealthInTech.csv")
 # Function
 build_chart_for_tech <- function(data, disorder) {
